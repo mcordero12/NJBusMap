@@ -1,0 +1,2297 @@
+[
+ {
+   "route_id": 1,
+   "agency_id": "NJB",
+   "route_short_name": "1",
+   "route_long_name": "Newark",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 2,
+   "agency_id": "NJB",
+   "route_short_name": "10",
+   "route_long_name": "Bayonne - Jersey City",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 3,
+   "agency_id": "NJB",
+   "route_short_name": "107",
+   "route_long_name": "Irvington - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 4,
+   "agency_id": "NJB",
+   "route_short_name": "108",
+   "route_long_name": "Newark - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 5,
+   "agency_id": "NJB",
+   "route_short_name": "11",
+   "route_long_name": "Newark - Willowbrook",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 6,
+   "agency_id": "NJB",
+   "route_short_name": "111",
+   "route_long_name": "New York-IKEA-Jersey Gardens",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 7,
+   "agency_id": "NJB",
+   "route_short_name": "112",
+   "route_long_name": "Clark - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 8,
+   "agency_id": "NJB",
+   "route_short_name": "113",
+   "route_long_name": "Dunellen - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 9,
+   "agency_id": "NJB",
+   "route_short_name": "114",
+   "route_long_name": "Bridgewater - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 10,
+   "agency_id": "NJB",
+   "route_short_name": "115",
+   "route_long_name": "Rahway - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 11,
+   "agency_id": "NJB",
+   "route_short_name": "116",
+   "route_long_name": "Perth Amboy - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 12,
+   "agency_id": "NJB",
+   "route_short_name": "117",
+   "route_long_name": "Somerville - New York Exp",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 13,
+   "agency_id": "NJB",
+   "route_short_name": "119",
+   "route_long_name": "Bayonne-Jersey City-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 14,
+   "agency_id": "NJB",
+   "route_short_name": "120",
+   "route_long_name": "Bayonne - New York Downtown",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 15,
+   "agency_id": "NJB",
+   "route_short_name": "121",
+   "route_long_name": "North Bergen - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 16,
+   "agency_id": "NJB",
+   "route_short_name": "122",
+   "route_long_name": "Secaucus - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 17,
+   "agency_id": "NJB",
+   "route_short_name": "123",
+   "route_long_name": "Jersey City-Union City-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 18,
+   "agency_id": "NJB",
+   "route_short_name": "124",
+   "route_long_name": "Secaucus - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 19,
+   "agency_id": "NJB",
+   "route_short_name": "125",
+   "route_long_name": "Jersey City-Journal Sq-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 20,
+   "agency_id": "NJB",
+   "route_short_name": "126",
+   "route_long_name": "Hoboken - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 21,
+   "agency_id": "NJB",
+   "route_short_name": "127",
+   "route_long_name": "Ridgefield-Union City-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 22,
+   "agency_id": "NJB",
+   "route_short_name": "128",
+   "route_long_name": "North Bergen-Blvd East-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 23,
+   "agency_id": "NJB",
+   "route_short_name": "129",
+   "route_long_name": "Secaucus-Union City-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 24,
+   "agency_id": "NJB",
+   "route_short_name": "13",
+   "route_long_name": "Broad Street - Clinton Avenue",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 25,
+   "agency_id": "NJB",
+   "route_short_name": "130",
+   "route_long_name": "Lakewood-NY-Union Hill Exp",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 26,
+   "agency_id": "NJB",
+   "route_short_name": "131",
+   "route_long_name": "Sayreville - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 27,
+   "agency_id": "NJB",
+   "route_short_name": "132",
+   "route_long_name": "Lakewood-NY-GordonsCornerExp",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 28,
+   "agency_id": "NJB",
+   "route_short_name": "133",
+   "route_long_name": "Old Bridge-Aberdeen-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 29,
+   "agency_id": "NJB",
+   "route_short_name": "135",
+   "route_long_name": "Freehold-Matawan-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 30,
+   "agency_id": "NJB",
+   "route_short_name": "136",
+   "route_long_name": "Lakewood-NY-Freehold Mall Ex",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 31,
+   "agency_id": "NJB",
+   "route_short_name": "137",
+   "route_long_name": "Toms River - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 32,
+   "agency_id": "NJB",
+   "route_short_name": "138",
+   "route_long_name": "Old Bridge-East Brunswick-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 33,
+   "agency_id": "NJB",
+   "route_short_name": "139",
+   "route_long_name": "Lakewood-Old Bridge-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 34,
+   "agency_id": "NJB",
+   "route_short_name": "144",
+   "route_long_name": "Elmwood Park-Hackensack-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 35,
+   "agency_id": "NJB",
+   "route_short_name": "145",
+   "route_long_name": "Fair Lawn - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 36,
+   "agency_id": "NJB",
+   "route_short_name": "148",
+   "route_long_name": "Midland Park - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 37,
+   "agency_id": "NJB",
+   "route_short_name": "151",
+   "route_long_name": "Paterson - New York Express",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 38,
+   "agency_id": "NJB",
+   "route_short_name": "153",
+   "route_long_name": "Fairview - Fort Lee - NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 39,
+   "agency_id": "NJB",
+   "route_short_name": "154",
+   "route_long_name": "Fort Lee-Palisades Park-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 40,
+   "agency_id": "NJB",
+   "route_short_name": "155",
+   "route_long_name": "Bogota-Ridgefield Park-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 41,
+   "agency_id": "NJB",
+   "route_short_name": "156",
+   "route_long_name": "Englewood Cliffs-Fort Lee-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 42,
+   "agency_id": "NJB",
+   "route_short_name": "157",
+   "route_long_name": "Teaneck-Ridgefield Park-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 43,
+   "agency_id": "NJB",
+   "route_short_name": "158",
+   "route_long_name": "Fort Lee-Edgewater-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 44,
+   "agency_id": "NJB",
+   "route_short_name": "159",
+   "route_long_name": "Fort Lee-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 45,
+   "agency_id": "NJB",
+   "route_short_name": "160",
+   "route_long_name": "Elmwood Park-Wallington-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 46,
+   "agency_id": "NJB",
+   "route_short_name": "161",
+   "route_long_name": "Paterson-Passaic-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 47,
+   "agency_id": "NJB",
+   "route_short_name": "162",
+   "route_long_name": "Maywood - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 48,
+   "agency_id": "NJB",
+   "route_short_name": "163",
+   "route_long_name": "Ridgewood - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 49,
+   "agency_id": "NJB",
+   "route_short_name": "163S",
+   "route_long_name": "Ridgewood - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 50,
+   "agency_id": "NJB",
+   "route_short_name": "164",
+   "route_long_name": "Midland Park-Fair Lawn-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 51,
+   "agency_id": "NJB",
+   "route_short_name": "165",
+   "route_long_name": "Westwood - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 52,
+   "agency_id": "NJB",
+   "route_short_name": "166",
+   "route_long_name": "Cresskill - Bergenfield - NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 53,
+   "agency_id": "NJB",
+   "route_short_name": "167",
+   "route_long_name": "Harrington Park-Teaneck-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 54,
+   "agency_id": "NJB",
+   "route_short_name": "168",
+   "route_long_name": "Paramus - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 55,
+   "agency_id": "NJB",
+   "route_short_name": "171",
+   "route_long_name": "Paterson - New York (GWB)",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 56,
+   "agency_id": "NJB",
+   "route_short_name": "175",
+   "route_long_name": "Ridgewood - New York (GWB)",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 57,
+   "agency_id": "NJB",
+   "route_short_name": "177",
+   "route_long_name": "HarringtonPk-NewMilford-NY X",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 58,
+   "agency_id": "NJB",
+   "route_short_name": "178",
+   "route_long_name": "Hackensack-Englewood-NY(GWB)",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 59,
+   "agency_id": "NJB",
+   "route_short_name": "181",
+   "route_long_name": "Union City - New York (GWB)",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 60,
+   "agency_id": "NJB",
+   "route_short_name": "182",
+   "route_long_name": "Hackensack - New York (GWB)",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 61,
+   "agency_id": "NJB",
+   "route_short_name": "186",
+   "route_long_name": "Dumont - New York (GWB)",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 62,
+   "agency_id": "NJB",
+   "route_short_name": "188",
+   "route_long_name": "West New York-New York(GWB)",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 63,
+   "agency_id": "NJB",
+   "route_short_name": "190",
+   "route_long_name": "Paterson-Secaucus-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 64,
+   "agency_id": "NJB",
+   "route_short_name": "191",
+   "route_long_name": "Willowbrook-Montclair-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 65,
+   "agency_id": "NJB",
+   "route_short_name": "192",
+   "route_long_name": "Clifton - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 66,
+   "agency_id": "NJB",
+   "route_short_name": "193",
+   "route_long_name": "Willowbrook - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 67,
+   "agency_id": "NJB",
+   "route_short_name": "194",
+   "route_long_name": "Stockholm-West Milford-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 68,
+   "agency_id": "NJB",
+   "route_short_name": "195",
+   "route_long_name": "Willowbrook-Cedar Grove-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 69,
+   "agency_id": "NJB",
+   "route_short_name": "196",
+   "route_long_name": "Warwick-Ringwood-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 70,
+   "agency_id": "NJB",
+   "route_short_name": "197",
+   "route_long_name": "Warwick - Wayne - New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 71,
+   "agency_id": "NJB",
+   "route_short_name": "198",
+   "route_long_name": "Wayne-WilliamPatersonUniv-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 72,
+   "agency_id": "NJB",
+   "route_short_name": "199",
+   "route_long_name": "Clifton-Lyndhurst-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 73,
+   "agency_id": "NJB",
+   "route_short_name": "2",
+   "route_long_name": "Jersey City-JournalSq-Secaucus",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 74,
+   "agency_id": "NJB",
+   "route_short_name": "21",
+   "route_long_name": "Main Street",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 75,
+   "agency_id": "NJB",
+   "route_short_name": "22",
+   "route_long_name": "N Bergen-Union City-Hoboken",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 76,
+   "agency_id": "NJB",
+   "route_short_name": "23",
+   "route_long_name": "N Bergen-Weehawken-Hoboken",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 77,
+   "agency_id": "NJB",
+   "route_short_name": "25",
+   "route_long_name": "Springfield Avenue",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 78,
+   "agency_id": "NJB",
+   "route_short_name": "26",
+   "route_long_name": "Irvington - Elizabeth",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 79,
+   "agency_id": "NJB",
+   "route_short_name": "27",
+   "route_long_name": "Mount Prospect",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 80,
+   "agency_id": "NJB",
+   "route_short_name": "28",
+   "route_long_name": "Nwk-MontclairUniv-Willowbrook",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 81,
+   "agency_id": "NJB",
+   "route_short_name": "29",
+   "route_long_name": "Bloomfield Avenue",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 82,
+   "agency_id": "NJB",
+   "route_short_name": "30",
+   "route_long_name": "North Arlington-Kearny-Newark",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 83,
+   "agency_id": "NJB",
+   "route_short_name": "308",
+   "route_long_name": "Six Flags Great Adv-New York",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 84,
+   "agency_id": "NJB",
+   "route_short_name": "313",
+   "route_long_name": "Cape May-Wildwood-Phila",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 85,
+   "agency_id": "NJB",
+   "route_short_name": "315",
+   "route_long_name": "Cape May-Wildwood-Phila",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 86,
+   "agency_id": "NJB",
+   "route_short_name": "317",
+   "route_long_name": "Asbury Park-Fort Dix-Phila",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 87,
+   "agency_id": "NJB",
+   "route_short_name": "319",
+   "route_long_name": "NY-Atlantic City-Cape",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 88,
+   "agency_id": "NJB",
+   "route_short_name": "320",
+   "route_long_name": "Mill Creek-N Bergen P/R-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 89,
+   "agency_id": "NJB",
+   "route_short_name": "321",
+   "route_long_name": "Vince Lombardi Park/Ride-NY",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 90,
+   "agency_id": "NJB",
+   "route_short_name": "324",
+   "route_long_name": "Wayne Rt 23 Transit Ctr-NY X",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 91,
+   "agency_id": "NJB",
+   "route_short_name": "329",
+   "route_long_name": "Harmon Cove-SecaucusJunction",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 92,
+   "agency_id": "NJB",
+   "route_short_name": "34",
+   "route_long_name": "Market Street",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 93,
+   "agency_id": "NJB",
+   "route_short_name": "34S",
+   "route_long_name": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 94,
+   "agency_id": "NJB",
+   "route_short_name": "361",
+   "route_long_name": "Newark Express",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 95,
+   "agency_id": "NJB",
+   "route_short_name": "37",
+   "route_long_name": "Lyons Avenue",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 96,
+   "agency_id": "NJB",
+   "route_short_name": "375",
+   "route_long_name": "Springfield Ave Line Express",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 97,
+   "agency_id": "NJB",
+   "route_short_name": "378",
+   "route_long_name": "Newark - Secaucus Express",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 98,
+   "agency_id": "NJB",
+   "route_short_name": "39",
+   "route_long_name": "Irvington - Newark",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 99,
+   "agency_id": "NJB",
+   "route_short_name": "40",
+   "route_long_name": "Kearny - Jersey Gardens",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 100,
+   "agency_id": "NJB",
+   "route_short_name": "400",
+   "route_long_name": "Sicklerville - Philadelphia",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 101,
+   "agency_id": "NJB",
+   "route_short_name": "401",
+   "route_long_name": "Salem - Philadelphia",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 102,
+   "agency_id": "NJB",
+   "route_short_name": "402",
+   "route_long_name": "Pennsville - Philadelphia",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 103,
+   "agency_id": "NJB",
+   "route_short_name": "403",
+   "route_long_name": "Camden-Lindenwold-Turnersvil",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 104,
+   "agency_id": "NJB",
+   "route_short_name": "404",
+   "route_long_name": "CherryHillMall-Pennsauken-Ph",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 105,
+   "agency_id": "NJB",
+   "route_short_name": "405",
+   "route_long_name": "Camden-Merchantville-Cherry",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 106,
+   "agency_id": "NJB",
+   "route_short_name": "406",
+   "route_long_name": "Berlin-Marlton-Philadelphia",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 107,
+   "agency_id": "NJB",
+   "route_short_name": "407",
+   "route_long_name": "Cmdn-Mrchntville-MorstwnMall",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 108,
+   "agency_id": "NJB",
+   "route_short_name": "408",
+   "route_long_name": "Millville - Philadelphia",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 109,
+   "agency_id": "NJB",
+   "route_short_name": "409",
+   "route_long_name": "Trenton-Willingboro-Phila",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 110,
+   "agency_id": "NJB",
+   "route_short_name": "41",
+   "route_long_name": "Park Avenue",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 111,
+   "agency_id": "NJB",
+   "route_short_name": "410",
+   "route_long_name": "Bridgeton - Philadelphia",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 112,
+   "agency_id": "NJB",
+   "route_short_name": "412",
+   "route_long_name": "Sewell-Glassboro-Phila",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 113,
+   "agency_id": "NJB",
+   "route_short_name": "413",
+   "route_long_name": "Camden-MountHolly-Burlington",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 114,
+   "agency_id": "NJB",
+   "route_short_name": "414",
+   "route_long_name": "Philadelphia - Moorestown",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 115,
+   "agency_id": "NJB",
+   "route_short_name": "417",
+   "route_long_name": "Mt. Holly-Willingboro-Phila",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 116,
+   "agency_id": "NJB",
+   "route_short_name": "418",
+   "route_long_name": "Trenton Express",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 117,
+   "agency_id": "NJB",
+   "route_short_name": "419",
+   "route_long_name": "Cmdn-Rt73/Pennsauken St-Burl",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 118,
+   "agency_id": "NJB",
+   "route_short_name": "450",
+   "route_long_name": "CherryHillMal-Audubon-Camden",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 119,
+   "agency_id": "NJB",
+   "route_short_name": "451",
+   "route_long_name": "Camden-Voorhees Town Center",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 120,
+   "agency_id": "NJB",
+   "route_short_name": "452",
+   "route_long_name": "Camden - 36th St. Station",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 121,
+   "agency_id": "NJB",
+   "route_short_name": "453",
+   "route_long_name": "Ferry Avenue PATCO - Camden",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 122,
+   "agency_id": "NJB",
+   "route_short_name": "455",
+   "route_long_name": "CherryHillMall-Wdbury-Paulsb",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 123,
+   "agency_id": "NJB",
+   "route_short_name": "457",
+   "route_long_name": "Moorestown Mall - Camden",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 124,
+   "agency_id": "NJB",
+   "route_short_name": "459",
+   "route_long_name": "VoorheesTC-CamdenCC-Avandale",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 125,
+   "agency_id": "NJB",
+   "route_short_name": "460",
+   "route_long_name": "Camden Seasonal Service",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 126,
+   "agency_id": "NJB",
+   "route_short_name": "463",
+   "route_long_name": "Woodbury-Avandale P/R",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 127,
+   "agency_id": "NJB",
+   "route_short_name": "468",
+   "route_long_name": "Penns Grove-Salem-Woodstown",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 128,
+   "agency_id": "NJB",
+   "route_short_name": "48",
+   "route_long_name": "Elizabeth-Woodbridge-Perth Am",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 129,
+   "agency_id": "NJB",
+   "route_short_name": "5",
+   "route_long_name": "Kinney",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 130,
+   "agency_id": "NJB",
+   "route_short_name": "501",
+   "route_long_name": "AtlanticCity-Brigantine Beac",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 131,
+   "agency_id": "NJB",
+   "route_short_name": "502",
+   "route_long_name": "Atl City-HamiltonMall-Atl/CC",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 132,
+   "agency_id": "NJB",
+   "route_short_name": "504",
+   "route_long_name": "BngalwPk-ChlseaHgts-VntrPlz",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 133,
+   "agency_id": "NJB",
+   "route_short_name": "505",
+   "route_long_name": "Atl City-Margate-Longport",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 134,
+   "agency_id": "NJB",
+   "route_short_name": "507",
+   "route_long_name": "Atlantic City - Ocean City",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 135,
+   "agency_id": "NJB",
+   "route_short_name": "508",
+   "route_long_name": "Atl City-StocktonColl-HamMal",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 136,
+   "agency_id": "NJB",
+   "route_short_name": "509",
+   "route_long_name": "Atl City-SomersPt-Ocean City",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 137,
+   "agency_id": "NJB",
+   "route_short_name": "52",
+   "route_long_name": "Morris Avenue",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 138,
+   "agency_id": "NJB",
+   "route_short_name": "551",
+   "route_long_name": "Philadelphia - Atlantic City",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 139,
+   "agency_id": "NJB",
+   "route_short_name": "552",
+   "route_long_name": "Cape May - Atlantic City",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 140,
+   "agency_id": "NJB",
+   "route_short_name": "553",
+   "route_long_name": "Upper Deerfield-Atl City",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 141,
+   "agency_id": "NJB",
+   "route_short_name": "554",
+   "route_long_name": "Lindenwold-PATCO-Atl City",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 142,
+   "agency_id": "NJB",
+   "route_short_name": "555",
+   "route_long_name": "Phila-Avandale Park&Ride",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 143,
+   "agency_id": "NJB",
+   "route_short_name": "559",
+   "route_long_name": "Lakewood - Atlantic City",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 144,
+   "agency_id": "NJB",
+   "route_short_name": "56",
+   "route_long_name": "Elizabeth - Winfield",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 145,
+   "agency_id": "NJB",
+   "route_short_name": "57",
+   "route_long_name": "Tremley",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 146,
+   "agency_id": "NJB",
+   "route_short_name": "58",
+   "route_long_name": "Elizabeth - Kenilworth",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 147,
+   "agency_id": "NJB",
+   "route_short_name": "59",
+   "route_long_name": "Plainfield - Newark",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 148,
+   "agency_id": "NJB",
+   "route_short_name": "6",
+   "route_long_name": "Ocean Avenue - Journal Square",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 149,
+   "agency_id": "NJB",
+   "route_short_name": "600",
+   "route_long_name": "Trenton - Plainsboro",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 150,
+   "agency_id": "NJB",
+   "route_short_name": "601",
+   "route_long_name": "Coll of NJ-Trenton-Ham MktPl",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 151,
+   "agency_id": "NJB",
+   "route_short_name": "603",
+   "route_long_name": "Mercer Mall-Ham Sq-Ham MktPl",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 152,
+   "agency_id": "NJB",
+   "route_short_name": "605",
+   "route_long_name": "Montgomery-Princeton-QBMall",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 153,
+   "agency_id": "NJB",
+   "route_short_name": "606",
+   "route_long_name": "Princeton-Mrcrville-HamMktPl",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 154,
+   "agency_id": "NJB",
+   "route_short_name": "607",
+   "route_long_name": "Ewing-Trenton-Indep Plz",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 155,
+   "agency_id": "NJB",
+   "route_short_name": "608",
+   "route_long_name": "Hamilton - West Trenton",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 156,
+   "agency_id": "NJB",
+   "route_short_name": "609",
+   "route_long_name": "Ewing - Quaker Bridge Mall",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 157,
+   "agency_id": "NJB",
+   "route_short_name": "610",
+   "route_long_name": "Trenton Seasonal Service",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 158,
+   "agency_id": "NJB",
+   "route_short_name": "611",
+   "route_long_name": "Trenton-RiverViewPlz-Circ",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 159,
+   "agency_id": "NJB",
+   "route_short_name": "612",
+   "route_long_name": "Lwrnce-WWindsor-Prnceton Jct",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 160,
+   "agency_id": "NJB",
+   "route_short_name": "613",
+   "route_long_name": "MercerMall-Yardville-Ham Mkt",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 161,
+   "agency_id": "NJB",
+   "route_short_name": "619",
+   "route_long_name": "Ewing-Mercer County College",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 162,
+   "agency_id": "NJB",
+   "route_short_name": "62",
+   "route_long_name": "Newark-Nwk Airport-Elizabeth",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 163,
+   "agency_id": "NJB",
+   "route_short_name": "624",
+   "route_long_name": "Pennington - East Trenton",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 164,
+   "agency_id": "NJB",
+   "route_short_name": "63",
+   "route_long_name": "Lakewood-JrsyCity-Weehawken X",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 165,
+   "agency_id": "NJB",
+   "route_short_name": "64",
+   "route_long_name": "Lakewood-Jersey City-Weehawke",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 166,
+   "agency_id": "NJB",
+   "route_short_name": "65",
+   "route_long_name": "Newark - Somerville",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 167,
+   "agency_id": "NJB",
+   "route_short_name": "66",
+   "route_long_name": "Newark - Mountainside",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 168,
+   "agency_id": "NJB",
+   "route_short_name": "67",
+   "route_long_name": "Toms River-Lakewood-Newark",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 169,
+   "agency_id": "NJB",
+   "route_short_name": "68",
+   "route_long_name": "OldBridge-EBrunswick-JerseyC",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 170,
+   "agency_id": "NJB",
+   "route_short_name": "70",
+   "route_long_name": "Newark - Livingston Mall",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 171,
+   "agency_id": "NJB",
+   "route_short_name": "702",
+   "route_long_name": "Paterson - Elmwood Park",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 172,
+   "agency_id": "NJB",
+   "route_short_name": "703",
+   "route_long_name": "Haledon-Paterson-East Ruther",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 173,
+   "agency_id": "NJB",
+   "route_short_name": "704",
+   "route_long_name": "Paterson - Willowbrook Mall",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 174,
+   "agency_id": "NJB",
+   "route_short_name": "705",
+   "route_long_name": "Passaic - Willowbrook Mall",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 175,
+   "agency_id": "NJB",
+   "route_short_name": "707",
+   "route_long_name": "Paterson - Paramus",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 176,
+   "agency_id": "NJB",
+   "route_short_name": "709",
+   "route_long_name": "Bloomfield-Passaic-Paramus",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 177,
+   "agency_id": "NJB",
+   "route_short_name": "71",
+   "route_long_name": "Newark-West Caldwell",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 178,
+   "agency_id": "NJB",
+   "route_short_name": "712",
+   "route_long_name": "Hackensack-Paterson-Willowbr",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 179,
+   "agency_id": "NJB",
+   "route_short_name": "72",
+   "route_long_name": "Paterson-Bloomfield-Newark",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 180,
+   "agency_id": "NJB",
+   "route_short_name": "722",
+   "route_long_name": "Paterson - Paramus Park",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 181,
+   "agency_id": "NJB",
+   "route_short_name": "73",
+   "route_long_name": "Newark - Orange - Livingston",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 182,
+   "agency_id": "NJB",
+   "route_short_name": "74",
+   "route_long_name": "Paterson - Nutley - Newark",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 183,
+   "agency_id": "NJB",
+   "route_short_name": "744",
+   "route_long_name": "Passaic - Paterson - Wayne",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 184,
+   "agency_id": "NJB",
+   "route_short_name": "746",
+   "route_long_name": "Ridgewood - Paterson",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 185,
+   "agency_id": "NJB",
+   "route_short_name": "748",
+   "route_long_name": "Paterson - Wayne",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 186,
+   "agency_id": "NJB",
+   "route_short_name": "751",
+   "route_long_name": "Paramus-Cliffside Park-Edgew",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 187,
+   "agency_id": "NJB",
+   "route_short_name": "752",
+   "route_long_name": "Oakland-Ridgewood-Hackensack",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 188,
+   "agency_id": "NJB",
+   "route_short_name": "753",
+   "route_long_name": "New Milford - Paramus",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 189,
+   "agency_id": "NJB",
+   "route_short_name": "755",
+   "route_long_name": "Paramus-Fort Lee-Edgewater",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 190,
+   "agency_id": "NJB",
+   "route_short_name": "756",
+   "route_long_name": "EnglewoodCliffs-FortLee-Para",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 191,
+   "agency_id": "NJB",
+   "route_short_name": "758",
+   "route_long_name": "Passaic - Paramus Park",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 192,
+   "agency_id": "NJB",
+   "route_short_name": "76",
+   "route_long_name": "Newark - Hackensack",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 193,
+   "agency_id": "NJB",
+   "route_short_name": "762",
+   "route_long_name": "Hackensack-NMilford-Paramus",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 194,
+   "agency_id": "NJB",
+   "route_short_name": "770",
+   "route_long_name": "Paterson - Hackensack",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 195,
+   "agency_id": "NJB",
+   "route_short_name": "772",
+   "route_long_name": "Paramus-Hackensack-Meadowlan",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 196,
+   "agency_id": "NJB",
+   "route_short_name": "78",
+   "route_long_name": "Newark - Secaucus",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 197,
+   "agency_id": "NJB",
+   "route_short_name": "780",
+   "route_long_name": "Passaic-Hackensack-Englewood",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 198,
+   "agency_id": "NJB",
+   "route_short_name": "79",
+   "route_long_name": "Newark - Parsippany Express",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 199,
+   "agency_id": "NJB",
+   "route_short_name": "80",
+   "route_long_name": "Greenville-JournalSq-Exchange",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 200,
+   "agency_id": "NJB",
+   "route_short_name": "801",
+   "route_long_name": "Metropark - JFK Hospital",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 201,
+   "agency_id": "NJB",
+   "route_short_name": "802",
+   "route_long_name": "Metropark - Rt. 1/Green St.",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 202,
+   "agency_id": "NJB",
+   "route_short_name": "803",
+   "route_long_name": "Metropark - Woodbridge Cente",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 203,
+   "agency_id": "NJB",
+   "route_short_name": "804",
+   "route_long_name": "Metropark - Wood Ave.",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 204,
+   "agency_id": "NJB",
+   "route_short_name": "805",
+   "route_long_name": "Metropark - Ford Ave.",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 205,
+   "agency_id": "NJB",
+   "route_short_name": "81",
+   "route_long_name": "Bayonne - Jersey City",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 206,
+   "agency_id": "NJB",
+   "route_short_name": "810",
+   "route_long_name": "New Brunswick-Woodbridge Ctr",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 207,
+   "agency_id": "NJB",
+   "route_short_name": "811",
+   "route_long_name": "New Brunswick - South River",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 208,
+   "agency_id": "NJB",
+   "route_short_name": "813",
+   "route_long_name": "Perth Amboy-Middlesex CC",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 209,
+   "agency_id": "NJB",
+   "route_short_name": "814",
+   "route_long_name": "N Brunswick-NewBrnswck-MidCC",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 210,
+   "agency_id": "NJB",
+   "route_short_name": "815",
+   "route_long_name": "NBrnswick-EBrnswick-WdbrdgeC",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 211,
+   "agency_id": "NJB",
+   "route_short_name": "817",
+   "route_long_name": "Perth Amboy-Campbell's Junct",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 212,
+   "agency_id": "NJB",
+   "route_short_name": "818",
+   "route_long_name": "NBrnswick-EBrnswick-OldBrdg",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 213,
+   "agency_id": "NJB",
+   "route_short_name": "819",
+   "route_long_name": "Piscataway-Plainfield-Metuch",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 214,
+   "agency_id": "NJB",
+   "route_short_name": "82",
+   "route_long_name": "Union City-Jersy City-Exch Pl",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 215,
+   "agency_id": "NJB",
+   "route_short_name": "822",
+   "route_long_name": "Plainfield-North Plainfield",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 216,
+   "agency_id": "NJB",
+   "route_short_name": "83",
+   "route_long_name": "Hackensack-Jersy City-JournSQ",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 217,
+   "agency_id": "NJB",
+   "route_short_name": "830",
+   "route_long_name": "Asbury Prk-Pt Pleasant Beach",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 218,
+   "agency_id": "NJB",
+   "route_short_name": "831",
+   "route_long_name": "Red Bank-MonMall-LongBranch",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 219,
+   "agency_id": "NJB",
+   "route_short_name": "832",
+   "route_long_name": "Red Bank-MonMall-Asbury Prk",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 220,
+   "agency_id": "NJB",
+   "route_short_name": "834",
+   "route_long_name": "Red Bank - Highlands",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 221,
+   "agency_id": "NJB",
+   "route_short_name": "836",
+   "route_long_name": "AsbryPrk-Free-RaceMal-Centra",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 222,
+   "agency_id": "NJB",
+   "route_short_name": "837",
+   "route_long_name": "LongBranch-AsburyPrk-Seaview",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 223,
+   "agency_id": "NJB",
+   "route_short_name": "838",
+   "route_long_name": "Freehold-Red Bank-Sea Bright",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 224,
+   "agency_id": "NJB",
+   "route_short_name": "84",
+   "route_long_name": "N Bergen-Jersey City-JournSq",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 225,
+   "agency_id": "NJB",
+   "route_short_name": "85",
+   "route_long_name": "Mill Crk-HarmonMeadow-Hbken",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 226,
+   "agency_id": "NJB",
+   "route_short_name": "86",
+   "route_long_name": "Union City-JersyCity-NwprtMal",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 227,
+   "agency_id": "NJB",
+   "route_short_name": "87",
+   "route_long_name": "Jersey City - Hoboken",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 228,
+   "agency_id": "NJB",
+   "route_short_name": "871",
+   "route_long_name": "Morristown-Boonton-Willowbro",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 229,
+   "agency_id": "NJB",
+   "route_short_name": "872",
+   "route_long_name": "Morristown-Rt.10-Livingston",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 230,
+   "agency_id": "NJB",
+   "route_short_name": "873",
+   "route_long_name": "Greystone-Morristown-Livings",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 231,
+   "agency_id": "NJB",
+   "route_short_name": "874",
+   "route_long_name": "Morristown - Willowbrook",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 232,
+   "agency_id": "NJB",
+   "route_short_name": "875",
+   "route_long_name": "Morristown-Dover-Roxbury",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 233,
+   "agency_id": "NJB",
+   "route_short_name": "878",
+   "route_long_name": "Morris - Florham Park",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 234,
+   "agency_id": "NJB",
+   "route_short_name": "879",
+   "route_long_name": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 235,
+   "agency_id": "NJB",
+   "route_short_name": "88",
+   "route_long_name": "N Bergen-Jersey City-JournSq",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 236,
+   "agency_id": "NJB",
+   "route_short_name": "880",
+   "route_long_name": "Morristown-Dover-Rockaway",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 237,
+   "agency_id": "NJB",
+   "route_short_name": "89",
+   "route_long_name": "North Bergen - Hoboken",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 238,
+   "agency_id": "NJB",
+   "route_short_name": "890",
+   "route_long_name": "South Main Street",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 239,
+   "agency_id": "NJB",
+   "route_short_name": "891",
+   "route_long_name": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 240,
+   "agency_id": "NJB",
+   "route_short_name": "90",
+   "route_long_name": "Grove Street Crosstown",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 241,
+   "agency_id": "NJB",
+   "route_short_name": "92",
+   "route_long_name": "Orange Crosstown",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 242,
+   "agency_id": "NJB",
+   "route_short_name": "94",
+   "route_long_name": "Stuyvesant Crosstown",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 243,
+   "agency_id": "NJB",
+   "route_short_name": "95",
+   "route_long_name": "Watchung - Newark",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 244,
+   "agency_id": "NJB",
+   "route_short_name": "96",
+   "route_long_name": "18th Street Crosstown",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 245,
+   "agency_id": "NJB",
+   "route_short_name": "97",
+   "route_long_name": "East Orange - Montclair",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 246,
+   "agency_id": "NJB",
+   "route_short_name": "986",
+   "route_long_name": "Summit - Plainfield",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 247,
+   "agency_id": "NJB",
+   "route_short_name": "99",
+   "route_long_name": "Clifton Avenue Crosstown",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 248,
+   "agency_id": "NJB",
+   "route_short_name": "AC1",
+   "route_long_name": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 249,
+   "agency_id": "NJB",
+   "route_short_name": "AC2A",
+   "route_long_name": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 250,
+   "agency_id": "NJB",
+   "route_short_name": "AC3",
+   "route_long_name": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 251,
+   "agency_id": "NJB",
+   "route_short_name": "AC4A",
+   "route_long_name": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 252,
+   "agency_id": "NJB",
+   "route_short_name": "AC4B",
+   "route_long_name": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 253,
+   "agency_id": "NJB",
+   "route_short_name": "AC5",
+   "route_long_name": "",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 254,
+   "agency_id": "NJB",
+   "route_short_name": "GO25",
+   "route_long_name": "Go Bus (Springfield Ave BR)",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ },
+ {
+   "route_id": 255,
+   "agency_id": "NJB",
+   "route_short_name": "GO28",
+   "route_long_name": "Nwk Airport-Nwk-Bloomfield",
+   "route_type": 3,
+   "route_url": "",
+   "route_color": ""
+ }
+]

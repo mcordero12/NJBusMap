@@ -1,0 +1,245 @@
+1 - 1 Newark
+2 - 2 Jersey City-JournalSq-Secaucus
+5 - 5 Kinney
+6 - 6 Ocean Avenue - Journal Square
+10 - 10 Bayonne - Jersey City
+11 - 11 Newark - Willowbrook
+13 - 13 Broad Street - Clinton Avenue
+21 - 21 Main Street
+22 - 22 N Bergen-Union City-Hoboken
+23 - 23 N Bergen-Weehawken-Hoboken
+25 - 25 Springfield Avenue
+26 - 26 Irvington - Elizabeth
+27 - 27 Mount Prospect
+28 - 28 Nwk-MontclairUniv-Willowbrook
+29 - 29 Bloomfield Avenue
+30 - 30 North Arlington-Kearny-Newark
+34 - 34 Market Street
+37 - 37 Lyons Avenue
+39 - 39 Irvington - Newark
+40 - 40 Kearny - Jersey Gardens
+41 - 41 Park Avenue
+48 - 48 Elizabeth-Woodbridge-Perth Am
+52 - 52 Morris Avenue
+56 - 56 Elizabeth - Winfield
+57 - 57 Tremley
+58 - 58 Elizabeth - Kenilworth
+59 - 59 Plainfield - Newark
+62 - 62 Newark-Nwk Airport-Elizabeth
+63 - 63 Lakewood-JrsyCity-Weehawken X
+64 - 64 Lakewood-Jersey City-Weehawke
+65 - 65 Newark - Somerville
+66 - 66 Newark - Mountainside
+67 - 67 Toms River-Lakewood-Newark
+68 - 68 OldBridge-EBrunswick-JerseyC
+70 - 70 Newark - Livingston Mall
+71 - 71 Newark-West Caldwell
+72 - 72 Paterson-Bloomfield-Newark
+73 - 73 Newark - Orange - Livingston
+74 - 74 Paterson - Nutley - Newark
+76 - 76 Newark - Hackensack
+78 - 78 Newark - Secaucus
+79 - 79 Newark - Parsippany Express
+80 - 80 Greenville-JournalSq-Exchange
+81 - 81 Bayonne - Jersey City
+82 - 82 Union City-Jersy City-Exch Pl
+83 - 83 Hackensack-Jersy City-JournSQ
+84 - 84 N Bergen-Jersey City-JournSq
+85 - 85 Mill Crk-HarmonMeadow-Hbken
+86 - 86 Union City-JersyCity-NwprtMal
+87 - 87 Jersey City - Hoboken
+88 - 88 N Bergen-Jersey City-JournSq
+89 - 89 North Bergen - Hoboken
+90 - 90 Grove Street Crosstown
+92 - 92 Orange Crosstown
+94 - 94 Stuyvesant Crosstown
+95 - 95 Watchung - Newark
+96 - 96 18th Street Crosstown
+97 - 97 East Orange - Montclair
+99 - 99 Clifton Avenue Crosstown
+107 - 107 Irvington - New York
+108 - 108 Newark - New York
+111 - 111 New York-IKEA-Jersey Gardens
+112 - 112 Clark - New York
+113 - 113 Dunellen - New York
+114 - 114 Bridgewater - New York
+115 - 115 Rahway - New York
+116 - 116 Perth Amboy - New York
+117 - 117 Somerville - New York Exp
+119 - 119 Bayonne-Jersey City-NY
+120 - 120 Bayonne - New York Downtown
+121 - 121 North Bergen - New York
+122 - 122 Secaucus - New York
+123 - 123 Jersey City-Union City-NY
+124 - 124 Secaucus - New York
+125 - 125 Jersey City-Journal Sq-NY
+126 - 126 Hoboken - New York
+127 - 127 Ridgefield-Union City-NY
+128 - 128 North Bergen-Blvd East-NY
+129 - 129 Secaucus-Union City-New York
+130 - 130 Lakewood-NY-Union Hill Exp
+131 - 131 Sayreville - New York
+132 - 132 Lakewood-NY-GordonsCornerExp
+133 - 133 Old Bridge-Aberdeen-New York
+135 - 135 Freehold-Matawan-New York
+136 - 136 Lakewood-NY-Freehold Mall Ex
+137 - 137 Toms River - New York
+138 - 138 Old Bridge-East Brunswick-NY
+139 - 139 Lakewood-Old Bridge-NY
+144 - 144 Elmwood Park-Hackensack-NY
+145 - 145 Fair Lawn - New York
+148 - 148 Midland Park - New York
+151 - 151 Paterson - New York Express
+153 - 153 Fairview - Fort Lee - NY
+154 - 154 Fort Lee-Palisades Park-NY
+155 - 155 Bogota-Ridgefield Park-NY
+156 - 156 Englewood Cliffs-Fort Lee-NY
+157 - 157 Teaneck-Ridgefield Park-NY
+158 - 158 Fort Lee-Edgewater-New York
+159 - 159 Fort Lee-New York
+160 - 160 Elmwood Park-Wallington-NY
+161 - 161 Paterson-Passaic-New York
+162 - 162 Maywood - New York
+163 - 163 Ridgewood - New York
+164 - 164 Midland Park-Fair Lawn-NY
+165 - 165 Westwood - New York
+166 - 166 Cresskill - Bergenfield - NY
+167 - 167 Harrington Park-Teaneck-NY
+168 - 168 Paramus - New York
+171 - 171 Paterson - New York (GWB)
+175 - 175 Ridgewood - New York (GWB)
+177 - 177 HarringtonPk-NewMilford-NY X
+178 - 178 Hackensack-Englewood-NY(GWB)
+181 - 181 Union City - New York (GWB)
+182 - 182 Hackensack - New York (GWB)
+186 - 186 Dumont - New York (GWB)
+188 - 188 West New York-New York(GWB)
+190 - 190 Paterson-Secaucus-New York
+191 - 191 Willowbrook-Montclair-NY
+192 - 192 Clifton - New York
+193 - 193 Willowbrook - New York
+194 - 194 Stockholm-West Milford-NY
+195 - 195 Willowbrook-Cedar Grove-NY
+196 - 196 Warwick-Ringwood-New York
+197 - 197 Warwick - Wayne - New York
+198 - 198 Wayne-WilliamPatersonUniv-NY
+199 - 199 Clifton-Lyndhurst-New York
+250 - GO25 Go Bus (Springfield Ave BR)
+258 - GO28 Nwk Airport-Nwk-Bloomfield
+308 - 308 Six Flags Great Adv-New York
+313 - 313 Cape May-Wildwood-Phila
+315 - 315 Cape May-Wildwood-Phila
+317 - 317 Asbury Park-Fort Dix-Phila
+319 - 319 NY-Atlantic City-Cape
+320 - 320 Mill Creek-N Bergen P/R-NY
+321 - 321 Vince Lombardi Park/Ride-NY
+324 - 324 Wayne Rt 23 Transit Ctr-NY X
+329 - 329 Harmon Cove-SecaucusJunction
+346 - 346 Princeton Rail Shuttle Servi
+361 - 361 Newark Express
+364 - 364 Ridgewood - Paramus Seasonal
+372 - 372 Bloomfield Seasonal Service
+375 - 375 Springfield Ave Line Express
+378 - 378 Newark - Secaucus Express
+400 - 400 Sicklerville - Philadelphia
+401 - 401 Salem - Philadelphia
+402 - 402 Pennsville - Philadelphia
+403 - 403 Camden-Lindenwold-Turnersvil
+404 - 404 CherryHillMall-Pennsauken-Ph
+405 - 405 Camden-Merchantville-Cherry
+406 - 406 Berlin-Marlton-Philadelphia
+407 - 407 Cmdn-Mrchntville-MorstwnMall
+408 - 408 Millville - Philadelphia
+409 - 409 Trenton-Willingboro-Phila
+410 - 410 Bridgeton - Philadelphia
+412 - 412 Sewell-Glassboro-Phila
+413 - 413 Camden-MountHolly-Burlington
+414 - 414 Philadelphia - Moorestown
+417 - 417 Mt. Holly-Willingboro-Phila
+418 - 418 Trenton Express
+419 - 419 Cmdn-Rt73/Pennsauken St-Burl
+450 - 450 CherryHillMal-Audubon-Camden
+451 - 451 Camden-Voorhees Town Center
+452 - 452 Camden - 36th St. Station
+453 - 453 Ferry Avenue PATCO - Camden
+455 - 455 CherryHillMall-Wdbury-Paulsb
+457 - 457 Moorestown Mall - Camden
+459 - 459 VoorheesTC-CamdenCC-Avandale
+460 - 460 Camden Seasonal Service
+463 - 463 Woodbury-Avandale P/R
+468 - 468 Penns Grove-Salem-Woodstown
+501 - 501 AtlanticCity-Brigantine Beac
+502 - 502 Atl City-HamiltonMall-Atl/CC
+504 - 504 BngalwPk-ChlseaHgts-VntrPlz
+505 - 505 Atl City-Margate-Longport
+507 - 507 Atlantic City - Ocean City
+508 - 508 Atl City-StocktonColl-HamMal
+509 - 509 Atl City-SomersPt-Ocean City
+551 - 551 Philadelphia - Atlantic City
+552 - 552 Cape May - Atlantic City
+553 - 553 Upper Deerfield-Atl City
+554 - 554 Lindenwold-PATCO-Atl City
+555 - 555 Phila-Avandale Park&Ride
+559 - 559 Lakewood - Atlantic City
+600 - 600 Trenton - Plainsboro
+601 - 601 Coll of NJ-Trenton-Ham MktPl
+603 - 603 Mercer Mall-Ham Sq-Ham MktPl
+605 - 605 Montgomery-Princeton-QBMall
+606 - 606 Princeton-Mrcrville-HamMktPl
+607 - 607 Ewing-Trenton-Indep Plz
+608 - 608 Hamilton - West Trenton
+609 - 609 Ewing - Quaker Bridge Mall
+610 - 610 Trenton Seasonal Service
+611 - 611 Trenton-RiverViewPlz-Circ
+612 - 612 Lwrnce-WWindsor-Prnceton Jct
+613 - 613 MercerMall-Yardville-Ham Mkt
+619 - 619 Ewing-Mercer County College
+624 - 624 Pennington - East Trenton
+702 - 702 Paterson - Elmwood Park
+703 - 703 Haledon-Paterson-East Ruther
+704 - 704 Paterson - Willowbrook Mall
+705 - 705 Passaic - Willowbrook Mall
+707 - 707 Paterson - Paramus
+709 - 709 Bloomfield-Passaic-Paramus
+712 - 712 Hackensack-Paterson-Willowbr
+722 - 722 Paterson - Paramus Park
+744 - 744 Passaic - Paterson - Wayne
+746 - 746 Ridgewood - Paterson
+748 - 748 Paterson - Wayne
+751 - 751 Paramus-Cliffside Park-Edgew
+752 - 752 Oakland-Ridgewood-Hackensack
+753 - 753 New Milford - Paramus
+755 - 755 Paramus-Fort Lee-Edgewater
+756 - 756 EnglewoodCliffs-FortLee-Para
+758 - 758 Passaic - Paramus Park
+762 - 762 Hackensack-NMilford-Paramus
+770 - 770 Paterson - Hackensack
+772 - 772 Paramus-Hackensack-Meadowlan
+780 - 780 Passaic-Hackensack-Englewood
+801 - 801 Metropark - JFK Hospital
+802 - 802 Metropark - Rt. 1/Green St.
+803 - 803 Metropark - Woodbridge Cente
+804 - 804 Metropark - Wood Ave.
+805 - 805 Metropark - Ford Ave.
+810 - 810 New Brunswick-Woodbridge Ctr
+811 - 811 New Brunswick - South River
+813 - 813 Perth Amboy-Middlesex CC
+814 - 814 N Brunswick-NewBrnswck-MidCC
+815 - 815 NBrnswick-EBrnswick-WdbrdgeC
+817 - 817 Perth Amboy-Campbell's Junct
+818 - 818 NBrnswick-EBrnswick-OldBrdg
+819 - 819 Piscataway-Plainfield-Metuch
+822 - 822 Plainfield-North Plainfield
+830 - 830 Asbury Prk-Pt Pleasant Beach
+831 - 831 Red Bank-MonMall-LongBranch
+832 - 832 Red Bank-MonMall-Asbury Prk
+834 - 834 Red Bank - Highlands
+836 - 836 AsbryPrk-Free-RaceMal-Centra
+837 - 837 LongBranch-AsburyPrk-Seaview
+838 - 838 Freehold-Red Bank-Sea Bright
+871 - 871 Morristown-Boonton-Willowbro
+872 - 872 Morristown-Rt.10-Livingston
+873 - 873 Greystone-Morristown-Livings
+874 - 874 Morristown - Willowbrook
+875 - 875 Morristown-Dover-Roxbury
+880 - 880 Morristown-Dover-Rockaway
