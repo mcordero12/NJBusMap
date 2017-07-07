@@ -8,32 +8,31 @@ html, body {
 
 #map { 
     height: 100%;
-    width: 100%;
+    width: 80%;
     z-index: 1;
+    float: right;
 }
 
-#header {
-    position: fixed;
+#sidebar {
     background-color: #4b0082;
     color: white;
-    width: 100%;
-    height: 60px;
-    float: top;
-    overflow-y: hidden;
+    width: 20%;
+    height: 100%;
+    float: left;
+    overflow-y: visible;
+    position: relative;
     z-index: 999;
 }
 
 h3 {
-    display: inline;
-    padding: 10px 5px 5px 10px;
+    display: block;
 }
 
-select {
+#routeDropdown {
   border: 1px solid #999;
   background: #fff;
-  /*display: inline;*/
-  width: 300px;
-  /*padding: 5px 5px 5px 5px;*/
+  position: relative;
+  width: 100%;
   font-size: 14px;
   border: 1px solid #ccc;
   height: 35px;
@@ -45,11 +44,26 @@ select {
 }
 
 @media screen and (max-width: 800px) {
-    #header {
-        height: 20%;
+    #map { 
+        height: 90%;
+        width: 100%;
+        z-index: 1;
+        float: top;
+    }
+    
+    h3 {
+        display: none;
     }
 
-    select {
+    #sidebar {
+        width: 100%;
+        height: 10%;
+        min-height: 50px;
+    }
+
+    #routeDropdown {
+        display: block;
+        padding: 0;
         height: 50px;
     }
 }
